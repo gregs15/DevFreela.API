@@ -1,6 +1,6 @@
 # DevFreela.API
 
-Projeto realizado no módulo Formação ASP NET Core, utilizando .NET 5.
+Projeto realizado no módulo Formação ASP NET Core, utilizando .NET 6.
 
 O objetivo deste projeto é, aperfeiçoar o framework, construindo uma API REST, utilizamos vários recursos como:
 
@@ -15,7 +15,7 @@ JWT -> Json Web Token
 xUnit -> Para testes unitários
 Mas quais funcionalidades foram implementadas?
 
-Cadastro, Atualização, Cancelamento e Consulta de Serviço de Freelancers.
-Cadastro de Usuário e de perfis Freelancer e Cliente.
-Adicionar comentários para um serviço de Freelancer.
-Definir, iniciar e finalizar o projeto.
+*Cadastro, Atualização, Cancelamento e Consulta de Serviço de Freelancers.
+*Cadastro de Usuário e de perfis Freelancer e Cliente.
+*Adicionar comentários para um serviço de Freelancer.
+*Definir, iniciar e finalizar o projeto.
